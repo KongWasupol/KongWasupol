@@ -1,6 +1,6 @@
 ## Hi, I'm Kong 👋
 
-🎓 First-year Engineering Student at King Mongkut's University of Technology Thonburi.  
+🎓 First-year Computer Engineering Student at King Mongkut's University of Technology Thonburi
 🌏 Based in Bangkok, Thailand  
 🤖 Interested in AI, Machine Learning, and building cool things  
 
@@ -15,4 +15,5 @@ Finding new inspiration and building new projects based on AI.
 ## 📫 Contact Me
 - Email: chaowsanguan@gmail.com
 
-⚡ Fun fact: My Instagram is "black_slothh", and I don't even know where this random name comes from.
+##⚡ Fun fact 
+My Instagram is "black_slothh", and I don't even know where this random name comes from.
