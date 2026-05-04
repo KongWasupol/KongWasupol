@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Kong 👋
 
-<!--
-**KongWasupol/KongWasupol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year Engineering Student at King Mongkut's University of Technology Thonburi.  
+🌏 Based in Bangkok, Thailand  
+🤖 Interested in AI, Machine Learning, and building cool things  
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools
+**Languages:** Python (beginner), JavaScript (beginner), HTML/CSS (beginner), C/C++ (beginner) 
+**AI/ML:** OpenAI API, Prompt Engineering (beginner)  
+**Learning:** Machine Learning, AI Agents
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+Finding new inspiration and building new projects based on AI.
+
+## 📫 Contact Me
+- Email: chaowsanguan@gmail.com
+
+⚡ Fun fact: My Instagram is "black_slothh", and I don't even know where this random name comes from.
