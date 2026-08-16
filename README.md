@@ -1,6 +1,6 @@
 ## Hi, I'm Kong 👋
 
-🎓 First-year Computer Engineering Student at King Mongkut's University of Technology Thonburi  
+🎓 Second-year Computer Engineering Student at King Mongkut's University of Technology Thonburi  
 🌏 Based in Bangkok, Thailand  
 🤖 Interested in AI, Machine Learning, and building cool things  
 
